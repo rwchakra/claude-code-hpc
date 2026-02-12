@@ -1,5 +1,7 @@
  
-Claude Code skills and configuration for running research code on HPC clusters.
+Claude Code skills and configuration for running research code on HPC clusters. The README.md serves as a guide to the actual text, in workflow.md. 
+
+The README.md has been written with the help (obviously), of Claude. 
 
 ## Overview
 
