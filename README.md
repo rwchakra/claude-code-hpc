@@ -13,7 +13,7 @@ This workflow automates the end-to-end process of taking a research repository a
 - Slurm templates and environment setup
 - Cluster-specific gotchas and workarounds
 
-Edit this file to match your HPC environment.
+Edit this and other files to match your HPC environment and paths.
 
 ## Skills
 
