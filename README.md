@@ -7,6 +7,10 @@ The README.md has been written with the help (obviously), of Claude.
 
 This workflow automates the end-to-end process of taking a research repository and getting it running on HPC infrastructure. Designed for clusters with containerized environments (Apptainer/Singularity) and GPU scheduling (Slurm).
 
+## Installation
+
+Please [install](https://code.claude.com/docs/en/setup) Claude Code first.
+
 ## Configuration
 
 **`CLAUDE.md`** - Main configuration file defining:
