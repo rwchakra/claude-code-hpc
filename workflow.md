@@ -9,7 +9,7 @@ In this document, I will outline how I use **Claude Code** - Anthropic's flagshi
 
 We want to get things running as fast as possible to actually do the work we want to do. Specifically, we want to navigate the repo, build a map, install dependencies, run SLURM jobs, and monitor them.
 
-The config is available in [this](https://github.com/rwchakra/claude-code-hpc) GitHub repo, and this document serves as a reading guide to those files.
+This document serves as a reading guide to the files in this repo.
 
 
 ## Step 1: `CLAUDE.md`
