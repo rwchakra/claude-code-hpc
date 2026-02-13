@@ -81,4 +81,4 @@ The workflow adapts automatically based on the active cluster in `CLAUDE.md`.
 
 ## License
 
-These skills are designed for academic research and HPC environments.
+MIT
